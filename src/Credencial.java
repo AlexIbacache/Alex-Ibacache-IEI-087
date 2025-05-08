@@ -7,6 +7,7 @@
  *
  * @author feli_
  */
+
 public class Credencial implements Cloneable{
     private String nombre;
     private String cargo;
